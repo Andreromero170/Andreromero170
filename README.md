@@ -21,11 +21,15 @@
 - El desarrollo de aplicaciones.  
 - La innovación tecnológica.  
 
+<img align="right" width=300px alt="mario" src="https://i.gifer.com/YKpv.gif" 
+<br>
+
 👯 **Estoy abierta a colaborar** en proyectos de código abierto o iniciativas con impacto social.  
 ✔ **Pregúntame sobre cualquier tema.** ¡Si está en mi área, estaré encantada de ayudarte! 😉  
 
+
 ---
-<img align="right" width=300px alt="mario" src="https://i.gifer.com/YKpv.gif" 
+
 
 ## Fuera de la tecnología:
 
