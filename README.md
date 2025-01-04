@@ -40,7 +40,7 @@
 - Explorar la naturaleza, leer, pintar y dibujar.  
 
 📫 **Contáctame en:**  
-<a href="tuemail@gmail.com">tuemail@gmail.com</a>
+<a href="andreinaalejandra.2000@gmail.com">andreinaalejandra.2000@gmail.com</a>
 
 ---
 
