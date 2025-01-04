@@ -44,16 +44,14 @@
 
 ---
 
-## **Check out my GitHub repositories:**
+## **Dale un Vistazo a mis GitHub repositorios:**
 
 <div>
   <p>
     <a href="https://github.com/TuUsuario/Repo1.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=Repo1" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andreromero170&repo=php-mysqli-hotel" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/TuUsuario/Repo2.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuUsuario&repo=Repo2" alt="GitHub Stats" />
-    </a>
+    
   </p>
 </div>
 
@@ -62,7 +60,7 @@
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreromero170" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
@@ -71,5 +69,5 @@
 
 ---
 
-**Credits:** <a href="https://github.com/TuUsuario">TuUsuario</a>  
+**Credits:** <a href="https://github.com/Andreromero170">Andreromero170 </a>  
 **Date:** 04/01/2025  
