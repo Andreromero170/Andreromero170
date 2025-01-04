@@ -64,7 +64,7 @@
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&include_all_commits=true)  
+![My github status](https://github-readme-stats.vercel.app/api?username=Andreromero170&show_icons=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact)
 
 ---
