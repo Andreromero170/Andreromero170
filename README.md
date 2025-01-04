@@ -5,7 +5,7 @@
 # Me Dicen 🌴, Andre 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TuUsuario.repoName) [![GitHub followers](https://img.shields.io/github/followers/TuUsuario.svg?style=social&label=Follow)](https://github.com/TuUsuario?tab=followers)<br/>
 
-<img align="right" width=300px alt="mario" src="https://tenor.com/es-VE/view/taking-off-shades-mario-luigi-chris-pratt-the-super-mario-bros-movie-gif-15700143871107015353" />
+<img align="right" width=300px alt="mario" src="https://i.gifer.com/Z6W2.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***SOBRE MÍ***
 
